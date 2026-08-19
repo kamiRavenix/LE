@@ -42,3 +42,17 @@
 - **DHCP**：67/68，自动分配 IP 地址。过滤器`dhcp`
 - **SNMP**：网络设备监控
 - **TFTP**：简单文件传输
+
+
+
+### 抓包常用过滤器速查表
+- tcp      TCP协议
+- udp       UDP协议
+- http      HTTP
+- tls       HTTPS(TLS)
+- dns       DNS域名解析
+- arp       ARP地址解析
+- icmp      ping
+- dhcp      获取IP
+- tcp.flags.syn==1   握手SYN
+- tcp.flags.fin==1   挥手FIN
