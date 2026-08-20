@@ -45,3 +45,9 @@ UDP没有拥塞控制。
 UDP支持一对一、一对多、多对一和多对多交互通信。
 
 UDP的首部开销小，只有8个字节。*
+<img width="2556" height="1050" alt="image" src="https://github.com/user-attachments/assets/16da2a85-9cfe-4c59-bc00-88c44d056c0f" />
+
+### DNS
+
+*DNS是一个简单的请求-响应协议，是将域名和IP地址相互映射的一个分布式数据库，能够使人更方便地访问互联网。DNS使用TCP和UDP协议的53端口。*
+
